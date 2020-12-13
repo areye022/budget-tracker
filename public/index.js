@@ -144,6 +144,9 @@ function sendTransaction(isAdding) {
   });
 }
 
+function saveRecord(){
+  
+}
 document.querySelector("#add-btn").onclick = function() {
   sendTransaction(true);
 };
