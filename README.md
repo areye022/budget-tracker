@@ -1,7 +1,6 @@
 # Budget Tracker
 
 ### Deployed Application 
-[Budget Tracker]()
 
 ![Screenshot of budget tracker](./public/images/budget1.JPG)
 
